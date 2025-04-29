@@ -1,0 +1,33 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This software is licensed, not sold, by Maksym Bazyvoliak ("Licensor") to the user ("You"). By installing or using this software, you agree to be bound by the terms of this EULA.
+
+1. License Grant:
+   
+    You are granted a non-transferable, non-exclusive license to use this software for personal or commercial use.
+
+2. Restrictions:
+
+    You may not:
+    - Modify, reverse engineer, or distribute this software.
+    - Use the software in unlawful or unethical ways.
+
+3. Ownership:
+
+    All rights, title, and interest in the software remain with the Licensor.
+
+4. Disclaimer of Warranty:
+   
+    This software is provided "as is" without warranty of any kind. You assume all risk of use.
+
+5. Limitation of Liability:
+   
+    Licensor shall not be liable for any damages arising from the use or inability to use the software.
+
+6. Governing Law:
+
+    This EULA shall be governed by the laws of Ternopil, Ukraine.
+
+7. Contact
+
+    Email: bazyvoliakmaksym@gmail.com
